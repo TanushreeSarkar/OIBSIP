@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Unit Converter</h1>
+    <div class="converter-block">
+        <h2>Length Converter</h2>
+        <input type="number" id="length-input" placeholder="Enter value">
+        <select id="length-unit">
+            <option value="meter">Meter</option>
+            <option value="kilometer">Kilometer</option>
+            <option value="centimeter">Centimeter</option>
+            <option value="millimeter">Millimeter</option>
+        </select>
+        <button id="length-convert">Convert</button>
+        <p id="length-output"></p>
+    </div>
+    <div class="converter-block">
+        <h2>Weight Converter</h2>
+        <input type="number" id="weight-input" placeholder="Enter value">
+        <select id="weight-unit">
+            <option value="kilogram">Kilogram</option>
+            <option value="gram">Gram</option>
+            <option value="milligram">Milligram</option>
+            <option value="ton">Ton</option>
+        </select>
+        <button id="weight-convert">Convert</button>
+        <p id="weight-output"></p>
+    </div>
+    <div class="converter-block">
+        <h2>Temperature Converter</h2>
+        <input type="number" id="temperature-input" placeholder="Enter value">
+        <select id="temperature-unit">
+            <option value="celsius">Celsius</option>
+            <option value="fahrenheit">Fahrenheit</option>
+            <option value="kelvin">Kelvin</option>
+        </select>
+        <button id="temperature-convert">Convert</button>
+        <p id="temperature-output"></p>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

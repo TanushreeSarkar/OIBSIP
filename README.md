@@ -31,7 +31,7 @@ Credits:
 Owner: Tanushree Sarkar
 
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/TanushreeSarkar/OIBSIP/blob/main/LICENSE) file for details.
 
 Contact:
 For any inquiries or feedback, please contact Tanushree Sarkar at 2k22.csaiml.2212256@gmail.com

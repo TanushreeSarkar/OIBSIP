@@ -11,7 +11,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/QuickQuiz.git
+git clone (https://oibsip-quick-quiz.vercel.app/landing.html)
 Open the Project:
 Use an IDE such as IntelliJ IDEA or Eclipse to open the project.
 
@@ -26,8 +26,10 @@ Create your feature branch (git checkout -b feature/YourFeature).
 Commit your changes (git commit -am 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
+
 Credits:
 Owner: Tanushree Sarkar
+
 License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
